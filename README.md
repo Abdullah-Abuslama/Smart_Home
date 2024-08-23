@@ -35,7 +35,7 @@ This project is a Smart Home Automation System that allows users to control vari
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/smart-home-automation.git
+    git clone https://github.com/Abdullah-Abuslama/Smart_Home.git
     ```
 2. Navigate to the project directory and open it in your preferred IDE.
 3. Ensure all necessary drivers and libraries are installed.
